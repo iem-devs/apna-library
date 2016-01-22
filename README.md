@@ -20,4 +20,4 @@ Slack Channel
 
 ## LICENSE
 
-[MIT](LICENSE.md)
+[MIT](LICENSE.txt)
