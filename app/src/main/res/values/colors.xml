@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    /******Theme Colors**************/
+
+    <color name="theme_primary">@color/deep_purple</color>
+    <color name="theme_primary_dark">@color/deep_purple_dark</color>
+    <color name="fab">@color/light_blue</color>
+
+    /*******Global Colors************/
+    <color name="colorPrimary">@color/deep_purple</color>
+    <color name="colorPrimaryDark">@color/deep_purple_dark</color>
+    <color name="textColorPrimary">@color/white</color>
+    <color name="windowBackgroundColor">@color/white</color>
+    <color name="navigationBarColor">@color/dark_grey</color>
+    <color name="colorAccent">@color/light_blue</color>
+
+    /****** Material Color pallette *************/
+
+    <color name="deep_purple_dark">#512DA8</color>
+    <color name="deep_purple">#673AB7</color>
+    <color name="purple_light">#D1C4E9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="black">#000000</color>
+    <color name="dark_grey">#212121</color>
+    <color name="grey">#727272</color>
+    <color name="light_grey">#B6B6B6</color>
+</resources>
