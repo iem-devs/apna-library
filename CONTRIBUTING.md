@@ -16,7 +16,6 @@ Contributing Guidelines
 
 * Improper / not formatted git messages wont be accepted
 * Read proper [git message rules](http://chris.beams.io/posts/git-commit/)
-* One Commit per PR. If multiple commits then [squash](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html) them before PR
 
 ## Questions
 
