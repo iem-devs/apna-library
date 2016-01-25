@@ -12,7 +12,7 @@ Everyone's social library where people meet, borrow and lend books!
 
 ## Contributing
 
-Read the [Contributing Guidelines](CONTRIBUTING.md) to start. Also, check out our [Wiki](wiki) if you are new to Android Programming and to learn the structure of this project.
+Read the [Contributing Guidelines](CONTRIBUTING.md) to start. Also, check out our [Wiki](https://github.com/iem-devs/apna-library/wiki) if you are new to Android Programming and to learn the structure of this project.
 
 ## Planning & Discussions
 
