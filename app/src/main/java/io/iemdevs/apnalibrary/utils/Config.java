@@ -6,6 +6,9 @@ package io.iemdevs.apnalibrary.utils;
  */
 public class Config {
 
+    public static final String TAG = "apna-library";
+    public static final String AUTH_TOKEN_KEY = "Authorization";
+
     public class Fragments {
         public static final String MYBOOKS = "My Books";
         public static final String EXPLORE = "Explore";
